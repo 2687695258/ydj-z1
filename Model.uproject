@@ -12,10 +12,6 @@
 			"Name": "AGXUnreal",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/41605aa41cbf47549d678c910f56dc29"
-		},
-		{
-			"Name": "BlueprintFileUtils",
-			"Enabled": true
 		}
 	]
 }
